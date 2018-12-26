@@ -22,8 +22,7 @@ In addition, please ensure that the following modules are installed:
 To encode a file, please:
 
 1.  Open a console window and navigate to a directory containing huffman.py and the plain text document file you wish to encode using the cd command
-2.  type `python huffman.py e filename.txt` where `filename.txt` is to be re-
-    placed by the name of the file you wish to encode.
+2.  type `python huffman.py e filename.txt` where `filename.txt` is to be replaced by the name of the file you wish to encode.
 
 A file `filename.hc` should appear in the same directory, ready for decoding
 
