@@ -1,6 +1,6 @@
 # Huffman Coding
 
-Originally made for Durham University's Department of Computer Science's course _Software Methodologies_ under the sub-module _Digital Communications_, as part of the coursework in 2017/2018.
+Originally made for my University's Department of Computer Science's course _Software Methodologies_ under the sub-module _Digital Communications_, as part of the coursework in 2017/2018.
 
 This repository contains an implementation of [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding) for .txt files.
 
